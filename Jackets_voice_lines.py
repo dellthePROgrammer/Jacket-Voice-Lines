@@ -1,53 +1,51 @@
+# This file was made with the intention of being used with a halloween costume of the character Jacket from Payday 2 which allows the person to 
+# play voice lines of the character by pressing a button on their hand to play the corresponding voice lines
+# the idea of the random module to randomize the files as well as putting the voice_lines into a list was made by https://github.com/Kostowniak
+# The initial creator of this code is https://github.com/dellthePROgrammer
+# The code was developed on windows then brought to a raspberry pi where 3 buttons are used to play a different voice line
+
 import os
-from winsound import PlaySound
 from pydub.playback import play
 import pygame
+from random import randint as rd
 
-
+# function for the playing of the 'Hi' voice lines
 def hi():
-    directory = 'hi'
-    voice_lines = os.listdir(directory)
-    while True:
-        for hi in voice_lines:
-            file = os.path.join(directory, hi)
-            pygame.init()
-            n = input('')
-            if n == '':
-                pygame.mixer.music.unload()
-                pygame.mixer.music.load(file)
-                print(file)
-                pygame.mixer.music.play()
-                # main()
-            elif n != '':
-                main()
+    directory = 'hi' # Directory of the hi files
+    voice_lines = os.listdir(directory) # Gets the files from the directory
+    list(voice_lines) # Puts the files from the directory into a list
+    hi = voice_lines[rd(0,len(voice_lines) - 1)] # Sets the files used equal to a random number
+    file = os.path.join(directory, hi) # Sets the file path
+    pygame.init()
+    pygame.mixer.music.unload() # First unloads te file if there was one before
+    pygame.mixer.music.load(file) # Loads the file that is wanted
+    pygame.mixer.music.play() # Plays the file loaded
 
 def arms():
-    directory = 'arms'
-    file = os.path.join(directory, 'arms_outstretched.mp3')
+    directory = 'arms' # Directory of the arms sound file
+    file = os.path.join(directory, 'arms_outstretched.mp3') # Sets the file to be played
     pygame.init()
-    print(file)
-    pygame.mixer.music.unload()
-    pygame.mixer.music.load(file)
-    pygame.mixer.music.play()
-    main()
+    pygame.mixer.music.unload() # First unloads te file if there was one before
+    pygame.mixer.music.load(file) # Loads the file that is wanted
+    pygame.mixer.music.play() # Plays the file loaded
 
 def random():
-    directory = 'mp3'
-    voice_lines = os.listdir(directory)
-    while True:
-        for hi in voice_lines:
-            file = os.path.join(directory, hi)
-            pygame.init()
-            n = input('')
-            if n == '':
-                pygame.mixer.music.unload()
-                pygame.mixer.music.load(file)
-                print(file)
-                pygame.mixer.music.play()
-                # main()
-            elif n != '':
-                main()
+    directory = 'mp3' # The main dirctory for storing guns
+    voice_lines = os.listdir(directory) # Gets the files from the directory
+    list(voice_lines) # Puts the files from the directory into a list
+    hi = voice_lines[rd(0, len(voice_lines) - 1)] # Sets the files used equal to a random number
+    file = os.path.join(directory, hi) # Sets the file path
+    pygame.init()
+    pygame.mixer.music.unload() # First unloads te file if there was one before
+    pygame.mixer.music.load(file) # Loads the file that is wanted
+    pygame.mixer.music.play() # Plays the file loaded
 
+def arrest():
+    # This is where all the voice line after arms out strecthed will go
+    pass
+
+
+# Main function of the program that will be used to call the functions related to the buttons pressed
 def main():
     while True:
         n = input('hi, arms, or random: ').lower()
@@ -57,51 +55,8 @@ def main():
             arms()
         elif n == 'random':
             random()
-            
-# while True:
-#     # for filename in voice_lines:
-#     #         file = os.path.join(directory, filename)
-#     #         pygame.init()
-#     #         while True:
-#                 n = input('')
-#                 if n == 'hi':
-#                     directory = 'mp3\\hi'
-#                     voice_lines = os.listdir(directory)
-#                     while True:
-#                         for hi in voice_lines:
-#                             file = os.path.join(directory, hi)
-#                             pygame.init()
-#                             n = input('')
-#                             if n == '':
-#                                 pygame.mixer.music.unload()
-#                                 pygame.mixer.music.load(file)
-#                                 print(file)
-#                                 pygame.mixer.music.play()
-#                             elif n == 'q':
-#                                 break
-#                 elif n == 'arms':
-#                     directory = 'mp3\\arms'
-#                     voice_lines = os.listdir(directory)
-#                     file = os.path.join(directory, 'arms_outstretched.mp3')
-#                     pygame.init()
-#                     print(file)
-#                     pygame.mixer.music.unload()
-#                     pygame.mixer.music.load(file)
-#                     pygame.mixer.music.play()
-#                 else:
-#                     directory = 'mp3'
-#                     voice_lines = os.listdir(directory)
-#                     for random in voice_lines:
-#                         file = os.path.join(directory, voice_lines)
-#                         pygame.init()
-#                         print(file)
-#                         pygame.mixer.music.unload()
-#                         pygame.mixer.music.load(file)
-#                         pygame.mixer.music.play()                    
-                
-#             # voice_line = AudioSegment.from_wav(file)
-#             # play(voice_line)
-
+        elif n == '':
+            arrest()
 
 
 if __name__ == '__main__':
