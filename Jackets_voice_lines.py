@@ -93,7 +93,7 @@ def main():
                 GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arms)
             elif 2 <= button_time < 4:
                 # arrest()
-                GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arms)
+                GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arrest)
         if GPIO.input(random_button) == GPIO.HIGH:
             GPIO.add_event_detect(random_button,GPIO.RISING,callback=random)
         # time.sleep(3)
