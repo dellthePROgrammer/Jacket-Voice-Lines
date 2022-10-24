@@ -55,7 +55,7 @@ def main():
             arms()
         elif n == 'random':
             random()
-        elif n == '':
+        elif n == 'arrest':
             arrest()
 
 
