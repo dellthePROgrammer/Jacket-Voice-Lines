@@ -8,6 +8,7 @@ import os
 from pydub.playback import play
 import pygame
 from random import randint as rd
+from time import sleep
 
 # function for the playing of the 'Hi' voice lines
 def hi():
@@ -33,8 +34,8 @@ def random():
     directory = 'mp3' # The main dirctory for storing guns
     voice_lines = os.listdir(directory) # Gets the files from the directory
     list(voice_lines) # Puts the files from the directory into a list
-    hi = voice_lines[rd(0, len(voice_lines) - 1)] # Sets the files used equal to a random number
-    file = os.path.join(directory, hi) # Sets the file path
+    random = voice_lines[rd(0, len(voice_lines) - 1)] # Sets the files used equal to a random number
+    file = os.path.join(directory, random) # Sets the file path
     pygame.init()
     pygame.mixer.music.unload() # First unloads te file if there was one before
     pygame.mixer.music.load(file) # Loads the file that is wanted
@@ -42,22 +43,33 @@ def random():
 
 def arrest():
     # This is where all the voice line after arms out strecthed will go
-    pass
+    for i in range(9,11):
+        directory = 'mp3' # The main dirctory for storing guns
+        voice_lines = os.listdir(directory) # Gets the files from the directory
+        list(voice_lines) # Puts the files from the directory into a list
+        hi = voice_lines[i] # Sets the files used equal to a random number
+        file = os.path.join(directory, hi) # Sets the file path
+        pygame.init()
+        pygame.mixer.music.unload() # First unloads te file if there was one before
+        pygame.mixer.music.load(file) # Loads the file that is wanted
+        pygame.mixer.music.play() # Plays the file loaded
+        sleep(1.5)
 
 
 # Main function of the program that will be used to call the functions related to the buttons pressed
 def main():
     while True:
         n = input('hi, arms, or random: ').lower()
-        if n == 'hi':
+        if n == 'w':
             hi()
-        elif n == 'arms':
+        elif n == 'a':
             arms()
-        elif n == 'random':
+        elif n == 's':
             random()
-        elif n == 'arrest':
+        elif n == 'd':
             arrest()
-
+        elif n == '':
+            break
 
 if __name__ == '__main__':
     main()
