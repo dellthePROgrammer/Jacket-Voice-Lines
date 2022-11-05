@@ -5,13 +5,22 @@
 # The code was developed on windows then brought to a raspberry pi where 3 buttons are used to play a different voice line
 
 import os
-from pydub.playback import play
 import pygame
 from random import randint as rd
+import RPi.GPIO as GPIO
 from time import sleep
 
+# These are the physical pin number being used
+hi_button = 11
+arms_button = 13
+random_button = 15
+
+GPIO.setup(hi_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
+GPIO.setup(arms_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
+GPIO.setup(random_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
+
 # function for the playing of the 'Hi' voice lines
-def hi():
+def hi(channel):
     directory = 'hi' # Directory of the hi files
     voice_lines = os.listdir(directory) # Gets the files from the directory
     list(voice_lines) # Puts the files from the directory into a list
@@ -22,7 +31,7 @@ def hi():
     pygame.mixer.music.load(file) # Loads the file that is wanted
     pygame.mixer.music.play() # Plays the file loaded
 
-def arms():
+def arms(channel):
     directory = 'arms' # Directory of the arms sound file
     file = os.path.join(directory, 'arms_outstretched.mp3') # Sets the file to be played
     pygame.init()
@@ -30,7 +39,7 @@ def arms():
     pygame.mixer.music.load(file) # Loads the file that is wanted
     pygame.mixer.music.play() # Plays the file loaded
 
-def random():
+def random(channel):
     directory = 'mp3' # The main dirctory for storing guns
     voice_lines = os.listdir(directory) # Gets the files from the directory
     list(voice_lines) # Puts the files from the directory into a list
@@ -41,7 +50,7 @@ def random():
     pygame.mixer.music.load(file) # Loads the file that is wanted
     pygame.mixer.music.play() # Plays the file loaded
 
-def arrest():
+def arrest(channel):
     # This is where all the voice line after arms out strecthed will go
     for i in range(0,2):
         directory = 'arrest' # The main dirctory for storing guns
@@ -57,19 +66,8 @@ def arrest():
 
 
 # Main function of the program that will be used to call the functions related to the buttons pressed
-def main():
-    while True:
-        n = input('hi, arms, or random: ').lower()
-        if n == 'w':
-            hi()
-        elif n == 'a':
-            arms()
-        elif n == 's':
-            random()
-        elif n == 'd':
-            arrest()
-        elif n == '':
-            break
-
-if __name__ == '__main__':
-    main()
+GPIO.add_event_detect(hi_button,GPIO.RISING,callback=hi)
+GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arms)
+GPIO.add_event_detect(random_button,GPIO.RISING,callback=random)
+exit = input('Press enter to quit\n\n') # Run until someone presses enter
+GPIO.cleanup() # Clean up
