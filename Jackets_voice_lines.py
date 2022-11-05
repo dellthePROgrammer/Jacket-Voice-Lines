@@ -13,11 +13,16 @@ from time import sleep
 # These are the physical pin number being used
 hi_button = 11
 arms_button = 13
-random_button = 15
+random_button = 40
+arrest_button = 15
 
-GPIO.setup(hi_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
-GPIO.setup(arms_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
-GPIO.setup(random_button, GPIO.IN, pull_up_down=GPIO.PUD.DOWN)
+GPIO.setwarnings(False) # Ignore warning for now
+GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
+
+GPIO.setup(hi_button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(arms_button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(random_button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(arrest_button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 # function for the playing of the 'Hi' voice lines
 def hi(channel):
@@ -69,5 +74,6 @@ def arrest(channel):
 GPIO.add_event_detect(hi_button,GPIO.RISING,callback=hi)
 GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arms)
 GPIO.add_event_detect(random_button,GPIO.RISING,callback=random)
+GPIO.add_event_detect(arrest_button,GPIO.RISING,callback=arrest)
 exit = input('Press enter to quit\n\n') # Run until someone presses enter
 GPIO.cleanup() # Clean up
