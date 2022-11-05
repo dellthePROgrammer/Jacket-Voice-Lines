@@ -43,8 +43,8 @@ def random():
 
 def arrest():
     # This is where all the voice line after arms out strecthed will go
-    for i in range(9,11):
-        directory = 'mp3' # The main dirctory for storing guns
+    for i in range(0,2):
+        directory = 'arrest' # The main dirctory for storing guns
         voice_lines = os.listdir(directory) # Gets the files from the directory
         list(voice_lines) # Puts the files from the directory into a list
         hi = voice_lines[i] # Sets the files used equal to a random number
