@@ -5,7 +5,7 @@
 # The code was developed on windows then brought to a raspberry pi where 3 buttons are used to play a different voice line
 
 import os
-import pygame
+import pygame # If you get an import ERROR with libSDL2-2.0.so.0: cannot open shared object file simply type this command: sudo apt install libsdl2-dev
 from random import randint as rd
 import RPi.GPIO as GPIO
 from time import sleep

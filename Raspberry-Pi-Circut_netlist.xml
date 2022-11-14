@@ -1,0 +1,2991 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<netlist sketch="Raspberry-Pi-Circut.fzz" date="Tue Nov 8 11:27:16 2022">
+ <net>
+  <connector id="connector39" name="GPIO21">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="pin60A" name="pin60A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60D" name="pin60D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60E" name="pin60E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60B" name="pin60B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60C" name="pin60C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector1" name="Pin 2">
+   <part label="S4" title="Pushbutton" id="59770"/>
+  </connector>
+  <connector id="connector0" name="Pin 1">
+   <part label="S4" title="Pushbutton" id="59770"/>
+  </connector>
+  <connector id="pin60F" name="pin60F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60G" name="pin60G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60H" name="pin60H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60I" name="pin60I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60J" name="pin60J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin55A" name="pin55A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55E" name="pin55E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55D" name="pin55D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55C" name="pin55C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55B" name="pin55B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector1" name="Pin 2">
+   <part label="S3" title="Pushbutton" id="59740"/>
+  </connector>
+  <connector id="connector0" name="Pin 1">
+   <part label="S3" title="Pushbutton" id="59740"/>
+  </connector>
+  <connector id="pin55F" name="pin55F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55I" name="pin55I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55H" name="pin55H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55G" name="pin55G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55J" name="pin55J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin50A" name="pin50A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50E" name="pin50E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50D" name="pin50D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50B" name="pin50B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50C" name="pin50C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector1" name="Pin 2">
+   <part label="S2" title="Pushbutton" id="59710"/>
+  </connector>
+  <connector id="connector0" name="Pin 1">
+   <part label="S2" title="Pushbutton" id="59710"/>
+  </connector>
+  <connector id="pin50F" name="pin50F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50G" name="pin50G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50J" name="pin50J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50H" name="pin50H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin50I" name="pin50I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin45A" name="pin45A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45D" name="pin45D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45E" name="pin45E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45B" name="pin45B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45C" name="pin45C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector1" name="Pin 2">
+   <part label="S1" title="Pushbutton" id="59680"/>
+  </connector>
+  <connector id="connector0" name="Pin 1">
+   <part label="S1" title="Pushbutton" id="59680"/>
+  </connector>
+  <connector id="pin45F" name="pin45F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45G" name="pin45G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45H" name="pin45H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45J" name="pin45J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45I" name="pin45I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin58W" name="pin58W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43W" name="pin43W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42W" name="pin42W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29W" name="pin29W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49W" name="pin49W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59W" name="pin59W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9W" name="pin9W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61W" name="pin61W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25W" name="pin25W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5W" name="pin5W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47W" name="pin47W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7W" name="pin7W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12W" name="pin12W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45W" name="pin45W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37W" name="pin37W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28W" name="pin28W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36W" name="pin36W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51W" name="pin51W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48W" name="pin48W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24W" name="pin24W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27W" name="pin27W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18W" name="pin18W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52W" name="pin52W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54W" name="pin54W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3W" name="pin3W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35W" name="pin35W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4W" name="pin4W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22W" name="pin22W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11W" name="pin11W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34W" name="pin34W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60W" name="pin60W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13W" name="pin13W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31W" name="pin31W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17W" name="pin17W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16W" name="pin16W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46W" name="pin46W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40W" name="pin40W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53W" name="pin53W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21W" name="pin21W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33W" name="pin33W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6W" name="pin6W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55W" name="pin55W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10W" name="pin10W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39W" name="pin39W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19W" name="pin19W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23W" name="pin23W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15W" name="pin15W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41W" name="pin41W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57W" name="pin57W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30W" name="pin30W">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58A" name="pin58A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58C" name="pin58C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58D" name="pin58D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58B" name="pin58B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58E" name="pin58E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector3" name="Pin 4">
+   <part label="S4" title="Pushbutton" id="59770"/>
+  </connector>
+  <connector id="pin43A" name="pin43A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48A" name="pin48A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53A" name="pin53A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector2" name="Pin 3">
+   <part label="S4" title="Pushbutton" id="59770"/>
+  </connector>
+  <connector id="pin43D" name="pin43D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43B" name="pin43B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43E" name="pin43E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43C" name="pin43C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48E" name="pin48E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48B" name="pin48B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48D" name="pin48D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48C" name="pin48C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53B" name="pin53B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53C" name="pin53C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53E" name="pin53E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53D" name="pin53D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58F" name="pin58F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector3" name="Pin 4">
+   <part label="S1" title="Pushbutton" id="59680"/>
+  </connector>
+  <connector id="connector3" name="Pin 4">
+   <part label="S2" title="Pushbutton" id="59710"/>
+  </connector>
+  <connector id="connector3" name="Pin 4">
+   <part label="S3" title="Pushbutton" id="59740"/>
+  </connector>
+  <connector id="pin58H" name="pin58H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58G" name="pin58G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58I" name="pin58I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58J" name="pin58J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="connector2" name="Pin 3">
+   <part label="S1" title="Pushbutton" id="59680"/>
+  </connector>
+  <connector id="connector2" name="Pin 3">
+   <part label="S2" title="Pushbutton" id="59710"/>
+  </connector>
+  <connector id="connector2" name="Pin 3">
+   <part label="S3" title="Pushbutton" id="59740"/>
+  </connector>
+  <connector id="pin43F" name="pin43F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48F" name="pin48F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53F" name="pin53F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43I" name="pin43I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43J" name="pin43J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43G" name="pin43G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43H" name="pin43H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48H" name="pin48H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48I" name="pin48I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48G" name="pin48G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48J" name="pin48J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53H" name="pin53H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53I" name="pin53I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53J" name="pin53J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53G" name="pin53G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="GPIO2">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector10" name="GPIO17">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector16" name="3V3">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector0" name="3V3">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="GPIO3">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector42" name="TR03_TAP">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector24" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector29" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector13" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector33" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector38" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector45" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector19" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector5" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector8" name="GND">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector46" name="GLOBAL_EN">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector22" name="GPIO11">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector18" name="GPIO10">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector6" name="GPIO4">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector9" name="GPIO15">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector31" name="GPIO12">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector20" name="GPIO9">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector37" name="GPIO20">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector36" name="GPIO26">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector27" name="ID_SC">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector32" name="GPIO13">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector41" name="TR00_TAP">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="5V">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+  <connector id="connector1" name="5V">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector30" name="GPIO6">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector17" name="GPIO24">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector15" name="GPIO23">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector14" name="GPIO22">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector43" name="TR02_TAP">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector12" name="GPIO27">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector26" name="ID_SD">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector21" name="GPIO25">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector44" name="RUN">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector25" name="GPIO7">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector35" name="GPIO16">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector34" name="GPIO19">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector40" name="TR01_TAP">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector23" name="GPIO8">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector28" name="GPIO5">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector11" name="GPIO18">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector7" name="GPIO14">
+   <part label="Mod1" title="Raspberry Pi 4B" id="66020"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin35I" name="pin35I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35F" name="pin35F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35J" name="pin35J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35G" name="pin35G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35H" name="pin35H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin12I" name="pin12I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12J" name="pin12J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12H" name="pin12H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12F" name="pin12F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12G" name="pin12G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin59I" name="pin59I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59F" name="pin59F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59G" name="pin59G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59J" name="pin59J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59H" name="pin59H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin41Y" name="pin41Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10Y" name="pin10Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52Y" name="pin52Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12Y" name="pin12Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25Y" name="pin25Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21Y" name="pin21Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5Y" name="pin5Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36Y" name="pin36Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27Y" name="pin27Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34Y" name="pin34Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39Y" name="pin39Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3Y" name="pin3Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37Y" name="pin37Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42Y" name="pin42Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22Y" name="pin22Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46Y" name="pin46Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7Y" name="pin7Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61Y" name="pin61Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31Y" name="pin31Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47Y" name="pin47Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19Y" name="pin19Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28Y" name="pin28Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35Y" name="pin35Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33Y" name="pin33Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57Y" name="pin57Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40Y" name="pin40Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11Y" name="pin11Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18Y" name="pin18Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51Y" name="pin51Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23Y" name="pin23Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43Y" name="pin43Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53Y" name="pin53Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60Y" name="pin60Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9Y" name="pin9Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58Y" name="pin58Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4Y" name="pin4Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16Y" name="pin16Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54Y" name="pin54Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15Y" name="pin15Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48Y" name="pin48Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6Y" name="pin6Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13Y" name="pin13Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17Y" name="pin17Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24Y" name="pin24Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29Y" name="pin29Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49Y" name="pin49Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45Y" name="pin45Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59Y" name="pin59Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30Y" name="pin30Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55Y" name="pin55Y">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin36Z" name="pin36Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39Z" name="pin39Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53Z" name="pin53Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41Z" name="pin41Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31Z" name="pin31Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47Z" name="pin47Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52Z" name="pin52Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25Z" name="pin25Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34Z" name="pin34Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5Z" name="pin5Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30Z" name="pin30Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28Z" name="pin28Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4Z" name="pin4Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17Z" name="pin17Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24Z" name="pin24Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3Z" name="pin3Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin43Z" name="pin43Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33Z" name="pin33Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37Z" name="pin37Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48Z" name="pin48Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29Z" name="pin29Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7Z" name="pin7Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40Z" name="pin40Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10Z" name="pin10Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19Z" name="pin19Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22Z" name="pin22Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46Z" name="pin46Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9Z" name="pin9Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60Z" name="pin60Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55Z" name="pin55Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18Z" name="pin18Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54Z" name="pin54Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6Z" name="pin6Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15Z" name="pin15Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11Z" name="pin11Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21Z" name="pin21Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57Z" name="pin57Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16Z" name="pin16Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23Z" name="pin23Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27Z" name="pin27Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61Z" name="pin61Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49Z" name="pin49Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51Z" name="pin51Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13Z" name="pin13Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59Z" name="pin59Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58Z" name="pin58Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42Z" name="pin42Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12Z" name="pin12Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35Z" name="pin35Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45Z" name="pin45Z">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin23F" name="pin23F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23J" name="pin23J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23H" name="pin23H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23G" name="pin23G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23I" name="pin23I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin47I" name="pin47I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47G" name="pin47G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47J" name="pin47J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47H" name="pin47H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47F" name="pin47F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin41B" name="pin41B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41C" name="pin41C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41E" name="pin41E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41A" name="pin41A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41D" name="pin41D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin15F" name="pin15F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15G" name="pin15G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15H" name="pin15H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15I" name="pin15I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15J" name="pin15J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin19G" name="pin19G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19J" name="pin19J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19I" name="pin19I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19H" name="pin19H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19F" name="pin19F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin54D" name="pin54D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54B" name="pin54B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54A" name="pin54A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54E" name="pin54E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54C" name="pin54C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin18I" name="pin18I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18J" name="pin18J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18F" name="pin18F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18G" name="pin18G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18H" name="pin18H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin14J" name="pin14J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14G" name="pin14G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14I" name="pin14I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14F" name="pin14F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14H" name="pin14H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin3D" name="pin3D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3C" name="pin3C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3A" name="pin3A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3B" name="pin3B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3E" name="pin3E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin43X" name="pin43X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46X" name="pin46X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17X" name="pin17X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31X" name="pin31X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25X" name="pin25X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35X" name="pin35X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52X" name="pin52X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16X" name="pin16X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin53X" name="pin53X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin45X" name="pin45X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24X" name="pin24X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41X" name="pin41X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34X" name="pin34X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9X" name="pin9X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33X" name="pin33X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57X" name="pin57X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin58X" name="pin58X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30X" name="pin30X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40X" name="pin40X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39X" name="pin39X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27X" name="pin27X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51X" name="pin51X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59X" name="pin59X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin60X" name="pin60X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5X" name="pin5X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10X" name="pin10X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36X" name="pin36X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12X" name="pin12X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47X" name="pin47X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54X" name="pin54X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13X" name="pin13X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin55X" name="pin55X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15X" name="pin15X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11X" name="pin11X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3X" name="pin3X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21X" name="pin21X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49X" name="pin49X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6X" name="pin6X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22X" name="pin22X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28X" name="pin28X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18X" name="pin18X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37X" name="pin37X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23X" name="pin23X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7X" name="pin7X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61X" name="pin61X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin48X" name="pin48X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29X" name="pin29X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4X" name="pin4X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42X" name="pin42X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19X" name="pin19X">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin61C" name="pin61C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61D" name="pin61D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61B" name="pin61B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61E" name="pin61E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61A" name="pin61A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin41J" name="pin41J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41F" name="pin41F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41G" name="pin41G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41H" name="pin41H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin41I" name="pin41I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin1B" name="pin1B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1D" name="pin1D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1A" name="pin1A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1E" name="pin1E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1C" name="pin1C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin11F" name="pin11F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11J" name="pin11J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11I" name="pin11I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11G" name="pin11G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11H" name="pin11H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin7C" name="pin7C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7D" name="pin7D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7E" name="pin7E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7B" name="pin7B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7A" name="pin7A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin59A" name="pin59A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59D" name="pin59D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59C" name="pin59C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59B" name="pin59B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin59E" name="pin59E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin27F" name="pin27F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27J" name="pin27J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27H" name="pin27H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27G" name="pin27G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27I" name="pin27I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin32H" name="pin32H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32I" name="pin32I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32G" name="pin32G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32J" name="pin32J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32F" name="pin32F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin22E" name="pin22E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22B" name="pin22B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22A" name="pin22A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22C" name="pin22C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22D" name="pin22D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin52A" name="pin52A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52D" name="pin52D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52C" name="pin52C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52B" name="pin52B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52E" name="pin52E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin22H" name="pin22H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22I" name="pin22I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22F" name="pin22F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22J" name="pin22J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin22G" name="pin22G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin54F" name="pin54F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54J" name="pin54J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54G" name="pin54G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54I" name="pin54I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin54H" name="pin54H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin62B" name="pin62B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62A" name="pin62A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62D" name="pin62D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62E" name="pin62E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62C" name="pin62C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin3J" name="pin3J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3I" name="pin3I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3F" name="pin3F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3H" name="pin3H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin3G" name="pin3G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin39H" name="pin39H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39G" name="pin39G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39I" name="pin39I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39J" name="pin39J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39F" name="pin39F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin44H" name="pin44H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44F" name="pin44F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44J" name="pin44J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44G" name="pin44G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44I" name="pin44I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin20D" name="pin20D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20E" name="pin20E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20C" name="pin20C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20A" name="pin20A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20B" name="pin20B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin5J" name="pin5J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5F" name="pin5F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5H" name="pin5H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5G" name="pin5G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5I" name="pin5I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin63I" name="pin63I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63G" name="pin63G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63F" name="pin63F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63J" name="pin63J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63H" name="pin63H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin47D" name="pin47D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47B" name="pin47B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47C" name="pin47C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47A" name="pin47A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin47E" name="pin47E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin6I" name="pin6I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6J" name="pin6J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6F" name="pin6F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6G" name="pin6G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6H" name="pin6H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin24F" name="pin24F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24G" name="pin24G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24H" name="pin24H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24I" name="pin24I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24J" name="pin24J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin34B" name="pin34B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34A" name="pin34A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34C" name="pin34C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34D" name="pin34D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34E" name="pin34E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin23D" name="pin23D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23B" name="pin23B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23A" name="pin23A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23E" name="pin23E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin23C" name="pin23C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin56J" name="pin56J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56H" name="pin56H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56I" name="pin56I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56F" name="pin56F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56G" name="pin56G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin6E" name="pin6E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6D" name="pin6D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6A" name="pin6A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6B" name="pin6B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin6C" name="pin6C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin33D" name="pin33D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33B" name="pin33B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33A" name="pin33A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33E" name="pin33E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33C" name="pin33C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin42F" name="pin42F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42G" name="pin42G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42I" name="pin42I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42J" name="pin42J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42H" name="pin42H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin46E" name="pin46E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46C" name="pin46C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46B" name="pin46B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46D" name="pin46D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46A" name="pin46A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin17D" name="pin17D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17A" name="pin17A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17B" name="pin17B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17E" name="pin17E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17C" name="pin17C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin30G" name="pin30G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30H" name="pin30H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30J" name="pin30J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30I" name="pin30I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30F" name="pin30F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin27C" name="pin27C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27D" name="pin27D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27A" name="pin27A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27B" name="pin27B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin27E" name="pin27E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin8B" name="pin8B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8E" name="pin8E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8D" name="pin8D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8C" name="pin8C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8A" name="pin8A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin52F" name="pin52F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52G" name="pin52G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52J" name="pin52J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52H" name="pin52H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin52I" name="pin52I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin51F" name="pin51F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51H" name="pin51H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51G" name="pin51G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51I" name="pin51I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51J" name="pin51J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin32C" name="pin32C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32D" name="pin32D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32B" name="pin32B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32A" name="pin32A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin32E" name="pin32E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin40H" name="pin40H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40G" name="pin40G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40I" name="pin40I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40F" name="pin40F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40J" name="pin40J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin29H" name="pin29H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29F" name="pin29F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29J" name="pin29J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29G" name="pin29G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29I" name="pin29I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin19B" name="pin19B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19E" name="pin19E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19A" name="pin19A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19D" name="pin19D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin19C" name="pin19C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin14D" name="pin14D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14E" name="pin14E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14C" name="pin14C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14A" name="pin14A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin14B" name="pin14B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin57D" name="pin57D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57B" name="pin57B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57E" name="pin57E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57A" name="pin57A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57C" name="pin57C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin16J" name="pin16J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16F" name="pin16F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16G" name="pin16G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16H" name="pin16H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16I" name="pin16I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin39E" name="pin39E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39C" name="pin39C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39D" name="pin39D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39A" name="pin39A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin39B" name="pin39B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin15D" name="pin15D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15B" name="pin15B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15E" name="pin15E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15C" name="pin15C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin15A" name="pin15A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin10D" name="pin10D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10B" name="pin10B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10E" name="pin10E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10C" name="pin10C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10A" name="pin10A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin13A" name="pin13A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13E" name="pin13E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13B" name="pin13B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13D" name="pin13D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13C" name="pin13C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin63A" name="pin63A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63B" name="pin63B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63D" name="pin63D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63E" name="pin63E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin63C" name="pin63C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin42E" name="pin42E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42A" name="pin42A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42B" name="pin42B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42C" name="pin42C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin42D" name="pin42D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin16B" name="pin16B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16A" name="pin16A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16E" name="pin16E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16C" name="pin16C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin16D" name="pin16D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin21G" name="pin21G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21J" name="pin21J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21I" name="pin21I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21H" name="pin21H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21F" name="pin21F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin4A" name="pin4A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4C" name="pin4C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4B" name="pin4B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4E" name="pin4E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4D" name="pin4D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin10F" name="pin10F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10H" name="pin10H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10G" name="pin10G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10J" name="pin10J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin10I" name="pin10I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin56D" name="pin56D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56A" name="pin56A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56E" name="pin56E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56B" name="pin56B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin56C" name="pin56C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin38C" name="pin38C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38B" name="pin38B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38A" name="pin38A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38D" name="pin38D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38E" name="pin38E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin46I" name="pin46I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46G" name="pin46G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46F" name="pin46F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46J" name="pin46J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin46H" name="pin46H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin29B" name="pin29B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29C" name="pin29C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29D" name="pin29D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29E" name="pin29E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin29A" name="pin29A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin24A" name="pin24A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24B" name="pin24B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24C" name="pin24C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24D" name="pin24D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin24E" name="pin24E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin1I" name="pin1I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1H" name="pin1H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1G" name="pin1G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1J" name="pin1J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin1F" name="pin1F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin34I" name="pin34I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34H" name="pin34H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34F" name="pin34F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34G" name="pin34G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin34J" name="pin34J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin28C" name="pin28C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28E" name="pin28E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28D" name="pin28D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28A" name="pin28A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28B" name="pin28B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin4G" name="pin4G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4J" name="pin4J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4H" name="pin4H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4F" name="pin4F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin4I" name="pin4I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin17F" name="pin17F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17G" name="pin17G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17J" name="pin17J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17H" name="pin17H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin17I" name="pin17I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin25A" name="pin25A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25D" name="pin25D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25C" name="pin25C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25E" name="pin25E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25B" name="pin25B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin37A" name="pin37A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37D" name="pin37D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37C" name="pin37C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37B" name="pin37B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37E" name="pin37E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin8H" name="pin8H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8J" name="pin8J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8F" name="pin8F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8I" name="pin8I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin8G" name="pin8G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin57H" name="pin57H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57G" name="pin57G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57I" name="pin57I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57F" name="pin57F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin57J" name="pin57J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin40D" name="pin40D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40E" name="pin40E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40C" name="pin40C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40B" name="pin40B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin40A" name="pin40A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin51B" name="pin51B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51D" name="pin51D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51E" name="pin51E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51C" name="pin51C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin51A" name="pin51A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin18A" name="pin18A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18B" name="pin18B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18C" name="pin18C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18D" name="pin18D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin18E" name="pin18E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin37G" name="pin37G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37J" name="pin37J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37I" name="pin37I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37H" name="pin37H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin37F" name="pin37F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin25J" name="pin25J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25F" name="pin25F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25G" name="pin25G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25I" name="pin25I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin25H" name="pin25H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin2A" name="pin2A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2E" name="pin2E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2D" name="pin2D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2B" name="pin2B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2C" name="pin2C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin49E" name="pin49E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49C" name="pin49C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49A" name="pin49A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49D" name="pin49D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49B" name="pin49B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin28J" name="pin28J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28H" name="pin28H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28I" name="pin28I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28F" name="pin28F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin28G" name="pin28G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin9B" name="pin9B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9D" name="pin9D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9C" name="pin9C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9A" name="pin9A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9E" name="pin9E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin26G" name="pin26G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26I" name="pin26I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26F" name="pin26F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26J" name="pin26J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26H" name="pin26H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin35D" name="pin35D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35A" name="pin35A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35E" name="pin35E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35C" name="pin35C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin35B" name="pin35B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin11D" name="pin11D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11A" name="pin11A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11C" name="pin11C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11B" name="pin11B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin11E" name="pin11E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin26C" name="pin26C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26B" name="pin26B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26E" name="pin26E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26D" name="pin26D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin26A" name="pin26A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin5D" name="pin5D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5C" name="pin5C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5E" name="pin5E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5B" name="pin5B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin5A" name="pin5A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin36J" name="pin36J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36H" name="pin36H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36F" name="pin36F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36I" name="pin36I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36G" name="pin36G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin36D" name="pin36D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36B" name="pin36B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36C" name="pin36C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36E" name="pin36E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin36A" name="pin36A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin7F" name="pin7F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7J" name="pin7J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7G" name="pin7G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7I" name="pin7I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin7H" name="pin7H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin13I" name="pin13I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13F" name="pin13F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13G" name="pin13G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13J" name="pin13J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin13H" name="pin13H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin30A" name="pin30A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30E" name="pin30E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30B" name="pin30B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30D" name="pin30D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin30C" name="pin30C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin44E" name="pin44E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44C" name="pin44C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44B" name="pin44B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44A" name="pin44A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin44D" name="pin44D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin20F" name="pin20F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20J" name="pin20J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20G" name="pin20G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20I" name="pin20I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin20H" name="pin20H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin61J" name="pin61J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61I" name="pin61I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61F" name="pin61F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61G" name="pin61G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin61H" name="pin61H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin12B" name="pin12B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12C" name="pin12C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12A" name="pin12A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12D" name="pin12D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin12E" name="pin12E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin31H" name="pin31H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31I" name="pin31I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31G" name="pin31G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31J" name="pin31J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31F" name="pin31F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin31A" name="pin31A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31E" name="pin31E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31C" name="pin31C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31B" name="pin31B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin31D" name="pin31D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin2G" name="pin2G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2J" name="pin2J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2F" name="pin2F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2H" name="pin2H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin2I" name="pin2I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin49J" name="pin49J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49G" name="pin49G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49I" name="pin49I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49F" name="pin49F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin49H" name="pin49H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin21D" name="pin21D">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21B" name="pin21B">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21C" name="pin21C">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21E" name="pin21E">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin21A" name="pin21A">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin33H" name="pin33H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33F" name="pin33F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33G" name="pin33G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33J" name="pin33J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin33I" name="pin33I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin9G" name="pin9G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9H" name="pin9H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9F" name="pin9F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9I" name="pin9I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin9J" name="pin9J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin62I" name="pin62I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62J" name="pin62J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62F" name="pin62F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62H" name="pin62H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin62G" name="pin62G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="pin38J" name="pin38J">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38I" name="pin38I">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38G" name="pin38G">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38H" name="pin38H">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+  <connector id="pin38F" name="pin38F">
+   <part label="Breadboard1" title="RSR 03MB102 Breadboard" id="57850"/>
+  </connector>
+ </net>
+</netlist>

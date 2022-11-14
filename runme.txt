@@ -1,0 +1,8 @@
+#!/bin/bash/
+
+sudo apt update
+sudo apt install python3 idle3 pip3 rpi.gpio libsdl2-dev -y
+#sudo apt install pip3 -y
+#sudo apt install rpi.gpio -y
+#sudo apt install libsdl2-dev -y
+pip3 install -y pygame
