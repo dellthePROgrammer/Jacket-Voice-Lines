@@ -10,7 +10,7 @@ import os
 import pygame # If you get an import ERROR with libSDL2-2.0.so.0: cannot open shared object file simply type this command: sudo apt install libsdl2-dev
 from random import randint as rd
 import RPi.GPIO as GPIO
-from time import sleep
+from time import sleep, time
 
 # These are the physical pin number being used
 hi_button = 11
@@ -71,11 +71,24 @@ def arrest(channel):
         pygame.mixer.music.play() # Plays the file loaded
         sleep(1.5)
 
+def myInterrupt(channel):
+    global buttonStatus
+    start_time = time.time() # Starts Tracking the time of the button being pressed
+
+    while GPIO.input(channel) == 0: # Pass until button is raised
+        pass
+    
+    button_time = time.time() - start_time # Sets the time the button was actually pressed for
+
+    if button_time >= .1: # If the button is only pressed
+        arrest()
+    else: # If the button is held down
+        arms()
 
 # Main function of the program that will be used to call the functions related to the buttons pressed
 GPIO.add_event_detect(hi_button,GPIO.RISING,callback=hi)
-GPIO.add_event_detect(arms_button,GPIO.RISING,callback=arms)
+GPIO.add_event_detect(arms_button,GPIO.FALLING,callback=myInterrupt)
 GPIO.add_event_detect(random_button,GPIO.RISING,callback=random)
-GPIO.add_event_detect(arrest_button,GPIO.RISING,callback=arrest)
+# GPIO.add_event_detect(arrest_button,GPIO.RISING,callback=arrest)
 exit = input('Press enter to quit\n\n') # Run until someone presses enter
 GPIO.cleanup() # Clean up
